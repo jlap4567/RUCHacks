@@ -1,4 +1,4 @@
-html{padding: 0px;margin: 0px;width:100%;height:100%;min-height: 2500px;}
+html{padding: 0px;margin: 0px;width:100%;height:100%;min-height: 2600px;}
 body{
 	margin: 0px;
 	padding: 0px;
@@ -99,6 +99,7 @@ div{position:relative;display:flex;margin:0px;padding:0px;}
 	align-items:center;
 	width: 100%;
 	height: 15%;
+	text-decoration: none
 }
 .fip_button p:hover{
 	cursor: pointer;
@@ -285,7 +286,7 @@ div{position:relative;display:flex;margin:0px;padding:0px;}
 .main_content_sponsers_sp{
 	display:flex;
 	width: 45%;
-	height: 98%;
+	height: 94%;
 	flex-direction:column;
 	padding: 1%;
 	background: rgba(256,256,256,0.9);
@@ -309,7 +310,7 @@ div{position:relative;display:flex;margin:0px;padding:0px;}
 .main_content_sponsers_sponser{
 	color:black;
 	align-items:center;
-	height: 20%;
+	height: 23%;
 	display: flex;
 	align-items:center;
 	text-shadow:none;
@@ -330,7 +331,7 @@ div{position:relative;display:flex;margin:0px;padding:0px;}
 	text-decoration: none;
 }
 #kkc{
-	height: 40%;
+	height: 45%;
 }
 .main_content_sponsers_become:visited{
 	color: black;
@@ -352,7 +353,6 @@ div{position:relative;display:flex;margin:0px;padding:0px;}
 	height: 50%;
 	display:flex;
 	margin: 0% 1% 0% 1%;
-	padding: 1%;
 	justify-content:center;
 	align-items:center;
 }

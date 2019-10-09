@@ -271,6 +271,7 @@ div{position:relative;display:flex;margin:0px;padding:0px;}
 	width: 100%;
 	height: 20%;
 	display:flex;
+	height: fit-content;
 	justify-content:center;
 	background: rgb(255, 102, 0);
 	align-items:center;
@@ -278,6 +279,7 @@ div{position:relative;display:flex;margin:0px;padding:0px;}
 .main_content_sponsers_background{
 	border-radius: 5px;
 	width: 94%;
+	height: fit-content;
 	display:flex;
 	justify-content:center;
 	height: 78%;
@@ -286,7 +288,7 @@ div{position:relative;display:flex;margin:0px;padding:0px;}
 .main_content_sponsers_sp{
 	display:flex;
 	width: 45%;
-	height: 94%;
+	height: fit-content;
 	flex-direction:column;
 	padding: 1%;
 	background: rgba(256,256,256,0.9);

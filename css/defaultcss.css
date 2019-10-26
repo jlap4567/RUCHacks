@@ -83,7 +83,7 @@ td {
 .fancy_interactive_picture{
 	margin-top:80px;
 	width: 100%;
-	height: 26%;
+	height: 30%;
 	display:flex;
 	flex-direction:column;
 	background: url('../images/ibackground0.gif');
@@ -111,11 +111,12 @@ td {
 }
 .fip_minititle{
 	width: 100%;
-	height: 30%;
+	height: 20%;
 	display:flex;
 	justify-content:center;
 	flex-direction: column;
 	align-items:center;
+	margin: 0 auto;
 }
 .fip_minititle p{
 	font-size: 150%;
@@ -124,12 +125,13 @@ td {
 	margin-bottom:1%;
 }
 .fip_button{
-	display:flex;
-	justify-content:center;
-	align-items:center;
-	width: 100%;
-	height: 15%;
-	text-decoration: none
+	display: inline-block;
+	padding: 6px;
+	background-color: orange;
+	color: white;
+	border-radius: 6px;
+	cursor: pointer;
+	font-size: 150%;
 }
 .fip_button p:hover{
 	cursor: pointer;
